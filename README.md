@@ -1,4 +1,4 @@
-# AngularApp1
+# AngularApp
 
 ## Install Node (latest version).
 
