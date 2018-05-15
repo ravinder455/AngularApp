@@ -20,9 +20,6 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 Run `npm start` to start project. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Start node server
-Run `node server.js`
-
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
